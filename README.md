@@ -6,3 +6,11 @@ Please note the following code supports .mp3 files only, however you can very ea
 The program is set to pull files from a music folder, however you can change the directory on line 4 to suit your needs
 
 This is still a work in progress, and I hope to possibly add a web interface, of which you can upload files to the music folder.
+
+You must have the PhatBeat Libary installed before using this program. This can be done by executing the following command in the terminal:
+
+<code>curl -sS https://get.pimoroni.com/phatbeat | bash</code>
+
+To clone the code, type in the following command:
+
+<code>git clone </code>
