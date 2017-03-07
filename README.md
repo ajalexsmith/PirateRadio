@@ -13,4 +13,4 @@ You must have the PhatBeat Libary installed before using this program. This can 
 
 To clone the code, type in the following command:
 
-<pre>git clone https://github.com/ajalexsmith/PirateRadio.git</pre>
+<pre>sudo git clone https://github.com/ajalexsmith/PirateRadio.git</pre>
