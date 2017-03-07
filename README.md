@@ -14,3 +14,5 @@ You must have the PhatBeat Libary installed before using this program. This can 
 To clone the code, type in the following command:
 
 <pre>sudo git clone https://github.com/ajalexsmith/PirateRadio.git</pre>
+
+#Please note, the error "ALSA lib pcm.c:7843:(snd_pcm_recover) underrun occurred" does occur frequently within the script. From what i have read, it simply means that the pi isn't supplying speaker with information quick enough, however it is nothing to worry about, and is to be expected due to the processing capabilities of the Pi Zero!
